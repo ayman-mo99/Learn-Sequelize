@@ -5,6 +5,8 @@ This repo is created to practice on sequelize. we will create database models an
 ### w3resource Folder
 * w3resource-1 file contains the exercise from here (https://www.w3resource.com/mysql-exercises/basic-simple-exercises/index.php)
 * w3resource-2 file contains the exercise from here (https://www.w3resource.com/mysql-exercises/restricting-and-sorting-data-exercises/index.php)
+* w3resource-3-Queries file contains the exercise from here (https://www.w3resource.com/mysql-exercises/join-exercises/index.php)
+
 
 
 ## Resources
